@@ -21,7 +21,50 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Face Interactive Coding with Facial Semantics
 
-### The key-reference frame is compressed by VVC codec to provide the texture reference and the subsequent inter frames are compactly represented with highly-disentangled facial semantics. By decoding these semantics and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. For better quality comparisons, please download the videos (mp4) from the "video" file.
+### The key-reference frame is compressed by VVC codec to provide the texture reference and the subsequent inter frames are compactly represented with highly-disentangled facial semantics. By decoding these semantics and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. 
+
+
+### Example 1
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205346979-65cd41d8-a575-485f-8e2c-fecfb4ff296e.mp4)](https://user-images.githubusercontent.com/80899378/205346979-65cd41d8-a575-485f-8e2c-fecfb4ff296e.mp4)
+
+
+### Example 2
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347004-c993ccad-11ca-4129-81ab-67cd1f4d0f62.mp4)](https://user-images.githubusercontent.com/80899378/205347004-c993ccad-11ca-4129-81ab-67cd1f4d0f62.mp4)
+
+
+### Example 3
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347025-140bf020-2aa4-456c-a4ac-8537c213a5fc.mp4)](https://user-images.githubusercontent.com/80899378/205347025-140bf020-2aa4-456c-a4ac-8537c213a5fc.mp4)
+
+
+### Example 4
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347052-1f1431de-91cf-4045-ab2c-e84ae9d37c8c.mp4)](https://user-images.githubusercontent.com/80899378/205347052-1f1431de-91cf-4045-ab2c-e84ae9d37c8c.mp4)
+
+
+### Example 5
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347065-5c785684-80a8-4189-8e1f-c3fdbea55449.mp4)](https://user-images.githubusercontent.com/80899378/205347065-5c785684-80a8-4189-8e1f-c3fdbea55449.mp4)
+
+
+### Example 6
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347073-55002555-33a6-4893-8c53-37974782366c.mp4)](https://user-images.githubusercontent.com/80899378/205347073-55002555-33a6-4893-8c53-37974782366c.mp4)
+
+
+### Example 7
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347094-3af5febb-c8ab-4877-a3c8-9a390a9ece3b.mp4)](https://user-images.githubusercontent.com/80899378/205347094-3af5febb-c8ab-4877-a3c8-9a390a9ece3b.mp4)
+
+
+### Example 8
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347116-259c4593-e258-46ed-a63c-0c2ef15f2065.mp4)](https://user-images.githubusercontent.com/80899378/205347116-259c4593-e258-46ed-a63c-0c2ef15f2065.mp4)
+
+
+
 
 
 ## Virtual Character Animation with Facial Semantics
