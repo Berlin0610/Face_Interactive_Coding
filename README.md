@@ -69,5 +69,20 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Virtual Character Animation with Facial Semantics
 
-### Virtual characters stored at the decoder side are selected by end users and facial semantics are extracted and transmitted from the talking face sequence captured at the encoder side. For better quality comparisons, please download the videos (mp4) from the "video" file.
+### Virtual characters stored at the decoder side are selected by end users and facial semantics are extracted and transmitted from the talking face sequence captured at the encoder side. 
+
+### Example 1
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205348093-f9b38340-d96b-4aa9-aa10-f86fd7d58bba.mp4)](https://user-images.githubusercontent.com/80899378/205348093-f9b38340-d96b-4aa9-aa10-f86fd7d58bba.mp4)
+
+
+### Example 2
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205348113-79e77836-ecdf-4926-ba93-c8a0de2a6147.mp4)](https://user-images.githubusercontent.com/80899378/205348113-79e77836-ecdf-4926-ba93-c8a0de2a6147.mp4)
+
+
+### Example 
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205348134-842a3e6a-14f7-4c76-ba91-cb764a84e1f6.mp4)](https://user-images.githubusercontent.com/80899378/205348134-842a3e6a-14f7-4c76-ba91-cb764a84e1f6.mp4)
+
 
