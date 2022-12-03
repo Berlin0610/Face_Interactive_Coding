@@ -12,7 +12,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Quality Comparisons (Similar Bitrate)
 
-### Compression performance comparisons with different compression anchors, such as VVC, FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid, CFTE.
+### Compression performance comparisons with different compression anchors, such as VVC, FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid, CFTE. For better quality comparisons, please download the videos (mp4).
 
 ### Example 1
 
@@ -63,7 +63,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Face Interactive Coding with Facial Semantics
 
-### The key-reference frame is compressed by VVC codec to provide the texture reference and the subsequent inter frames are compactly represented with highly-disentangled facial semantics. By decoding these semantics and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. 
+### The key-reference frame is compressed by VVC codec to provide the texture reference and the subsequent inter frames are compactly represented with highly-disentangled facial semantics. By decoding these semantics and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. For better quality comparisons, please download the videos (mp4).
 
 
 ### Example 1
@@ -108,7 +108,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Face Interactive Coding with Facial Semantics
 
-### Visual examples about the interactivity of eye motion, mouth motion, head posture and head translation with different degrees.
+### Visual examples about the interactivity of eye motion, mouth motion, head posture and head translation with different degrees. For better quality comparisons, please download the videos (mp4).
 
 ### Example--Eye Motion Interactivity
 
@@ -133,7 +133,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Virtual Character Animation with Facial Semantics
 
-### Virtual characters stored at the decoder side are selected by end users and facial semantics are extracted and transmitted from the talking face sequence captured at the encoder side. 
+### Virtual characters stored at the decoder side are selected by end users and facial semantics are extracted and transmitted from the talking face sequence captured at the encoder side. For better quality comparisons, please download the videos (mp4).
 
 ### Example 1
 
