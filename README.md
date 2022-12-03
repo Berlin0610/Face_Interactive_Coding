@@ -12,7 +12,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Quality Comparisons (Similar Bitrate)
 
-### For better quality comparisons, please download the videos (mp4) from the "video" file.
+### Compression performance comparisons with different compression anchors, such as VVC, FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid, CFTE.
 
 ### Example 1
 
@@ -106,6 +106,28 @@ In this paper, we propose a face interactive coding framework, which efficiently
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205347116-259c4593-e258-46ed-a63c-0c2ef15f2065.mp4)](https://user-images.githubusercontent.com/80899378/205347116-259c4593-e258-46ed-a63c-0c2ef15f2065.mp4)
 
 
+## Face Interactive Coding with Facial Semantics
+
+### Visual examples about the interactivity of eye motion, mouth motion, head posture and head translation with different degrees.
+
+### Example--Eye Motion Interactivity
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454266-d46b9c8b-2150-45d5-bfd3-2936633a879d.mp4)](https://user-images.githubusercontent.com/80899378/205454266-d46b9c8b-2150-45d5-bfd3-2936633a879d.mp4)
+
+
+### Example--Mouth Motion Interactivity
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454271-a45b3e5c-229e-41ff-a095-b6ff575e17b7.mp4)](https://user-images.githubusercontent.com/80899378/205454271-a45b3e5c-229e-41ff-a095-b6ff575e17b7.mp4)
+
+
+### Example--Head Pose Interactivity
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454275-090a315a-5261-4830-97a1-e82ade31c04d.mp4)](https://user-images.githubusercontent.com/80899378/205454275-090a315a-5261-4830-97a1-e82ade31c04d.mp4)
+
+
+### Example--Head Translation Interactivity
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454277-c7f1f0bf-76e5-436d-b725-10afb969d3a6.mp4)](https://user-images.githubusercontent.com/80899378/205454277-c7f1f0bf-76e5-436d-b725-10afb969d3a6.mp4)
 
 
 
