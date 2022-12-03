@@ -8,11 +8,11 @@
 
 ## Abstract
 
-In this paper, we propose a face interactive coding framework, which efficiently projects the talking face frames into low-dimensional and highly-disentangled facial semantics. Therefore, the video conferencing/chat system can be developed towards low-bandwidth communication and immersive interactivity. Technically, assisted by 3D morphable model (3DMM), the face videos exhibiting strong statistical regularities can be decoupled into facial semantic parameters, where these parameters are further compressed and transmitted to reconstruct 3D facial meshes. Moreover, joint with the additionally predicted eye-blink intensities, these reconstructed 3D facial meshes are evolved into explicit motion field characterization and facial attention guidance. As such, the talking face videos are enabled to be accurately reconstructed or controllably synthesized via the deep generative model at ultra-low bit rates. Experimental results have demonstrated the performance superiority and application prospects of our proposed scheme in video conferencing and live entertainment compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) and the latest generative compression schemes.
+In this paper, we propose a face interactive coding framework, xxxxxx
 
 ## Quality Comparisons (Similar Bitrate)
 
-### Compression performance comparisons with different compression anchors, such as VVC, FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid, CFTE. For better quality comparisons, please download the videos (mp4).
+### To verify the performance, we compare our proposed face interactive coding scheme with the latest hybrid video coding standard VVC and five generative compression schemes, including 2D algorithms (FOMM, FOMM2.0 and CFTE) and 3D algorithms (Face_vid2vid and Face2FaceRHO). For better quality comparisons, please download the videos (mp4).
 
 ### Example 1
 
@@ -63,7 +63,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Face Interactive Coding with Facial Semantics
 
-### The key-reference frame is compressed by VVC codec to provide the texture reference and the subsequent inter frames are compactly represented with highly-disentangled facial semantics. By decoding these semantics and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. For better quality comparisons, please download the videos (mp4).
+### By decoding these facial semantics from the coding bitstream and modifying the corresponding value of them at the decoder side, different interactive manners can be achieved in terms of eye motion, mouth motion, headpose and face region size. For better quality comparisons, please download the videos (mp4).
 
 
 ### Example 1
@@ -108,7 +108,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Face Interactive Coding with Facial Semantics
 
-### Visual examples about the interactivity of eye motion, mouth motion, head posture and head translation with different degrees. For better quality comparisons, please download the videos (mp4).
+### To better show the superior facial interactive results, we provide visual examples about different interactivity degrees of eye motion, mouth motion, head posture and head translation. For better quality comparisons, please download the videos (mp4).
 
 ### Example--Eye Motion Interactivity
 
@@ -133,7 +133,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ## Virtual Character Animation with Facial Semantics
 
-### Virtual characters stored at the decoder side are selected by end users and facial semantics are extracted and transmitted from the talking face sequence captured at the encoder side. For better quality comparisons, please download the videos (mp4).
+### To better protect user privacy in talking face communication, we provide a virtual character animation manner by regarding the virtual character as the key-reference frame and animating it with compact facial semantics at the decoder side. For better quality comparisons, please download the videos (mp4).
 
 ### Example 1
 
