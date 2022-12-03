@@ -16,7 +16,49 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ### Example 1
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/195520658-a6523e1b-dcdb-4be7-ad17-b7873eb9d26c.mp4)](https://user-images.githubusercontent.com/80899378/195520658-a6523e1b-dcdb-4be7-ad17-b7873eb9d26c.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445375-38109973-9d82-490a-8ec9-5a5e40094f72.mp4)](https://user-images.githubusercontent.com/80899378/205445375-38109973-9d82-490a-8ec9-5a5e40094f72.mp4)
+
+
+### Example 2
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445384-fc48de76-3f0d-49de-839b-f143d96d360c.mp4)](https://user-images.githubusercontent.com/80899378/205445384-fc48de76-3f0d-49de-839b-f143d96d360c.mp4)
+
+
+### Example 3
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445378-c1111319-8215-4ddb-bb74-5fcfd861d163.mp4)](https://user-images.githubusercontent.com/80899378/205445378-c1111319-8215-4ddb-bb74-5fcfd861d163.mp4)
+
+
+### Example 4
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445390-c8701815-08e8-4a5d-b2ad-15a52281c212.mp4)](https://user-images.githubusercontent.com/80899378/205445390-c8701815-08e8-4a5d-b2ad-15a52281c212.mp4)
+
+
+### Example 5
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445393-4dcfc0bc-2009-41ae-9674-3255f8c30879.mp4)](https://user-images.githubusercontent.com/80899378/205445393-4dcfc0bc-2009-41ae-9674-3255f8c30879.mp4)
+
+
+### Example 6
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445403-7b8fba7b-5828-49f6-89be-893b2fd09678.mp4)](https://user-images.githubusercontent.com/80899378/205445403-7b8fba7b-5828-49f6-89be-893b2fd09678.mp4)
+
+
+### Example 7
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445412-5d0b5bbc-0e1a-48f6-b01b-0795637c38aa.mp4)](https://user-images.githubusercontent.com/80899378/205445412-5d0b5bbc-0e1a-48f6-b01b-0795637c38aa.mp4)
+
+
+### Example 8
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445413-4ea15cd6-05c7-4d1c-912a-09f97e4dd0ff.mp4)](https://user-images.githubusercontent.com/80899378/205445413-4ea15cd6-05c7-4d1c-912a-09f97e4dd0ff.mp4)
+
+
+### Example 9
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445414-483f3272-04ac-4ff2-bef2-58868feaedf8.mp4
+)](https://user-images.githubusercontent.com/80899378/205445414-483f3272-04ac-4ff2-bef2-58868feaedf8.mp4
+)
 
 
 ## Face Interactive Coding with Facial Semantics
