@@ -1,20 +1,11 @@
 # Face Interactive Coding: A Generative Compression Framework
 
-## Bolin Chen&dagger;, Zhao Wang&sect;, Binzhe Li&dagger;, Shurun Wang&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
-
-### &dagger; City University of Hong Kong and &sect; Alibaba Group
-
-#### The first two authors (Bolin Chen and Zhao Wang) contributed equally to this work
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205655623-706a9715-ef8c-4fc2-9925-9110e9bbb128.mp4)](https://user-images.githubusercontent.com/80899378/205655623-706a9715-ef8c-4fc2-9925-9110e9bbb128.mp4)
 
 ## Abstract
 
-
-In this paper, we propose a face interactive coding framework, xxxxxx
-
-
-
+In this paper, we propose a face interactive coding framework, which efficiently projects the talking face frames into low-dimensional and highly-disentangled facial semantics. Therefore, the video conferencing/chat system can be developed towards low-bandwidth communication and immersive interactivity. Technically, assisted by 3D morphable model (3DMM), the face videos exhibiting strong statistical regularities can be decoupled into facial semantic parameters, where these parameters are further compressed and transmitted to reconstruct 3D facial meshes. Moreover, joint with the additionally predicted eye-blink intensities, these reconstructed 3D facial meshes are evolved into explicit motion field characterization and facial attention guidance. As such, the talking face videos are enabled to be accurately reconstructed or controllably synthesized via the deep generative model at ultra-low bit rates. Experimental results have demonstrated the performance superiority and application prospects of our proposed scheme in video conferencing and live entertainment compared with the state-of-the-art video coding standard Versatile Video Coding (VVC) and the latest generative compression schemes. 
 
 
 
