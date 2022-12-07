@@ -40,7 +40,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ### Example 6
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445403-7b8fba7b-5828-49f6-89be-893b2fd09678.mp4)](https://user-images.githubusercontent.com/80899378/205445403-7b8fba7b-5828-49f6-89be-893b2fd09678.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/206189542-00450aa0-5df0-4cfb-9ff5-2199d0e005da.mp4)](https://user-images.githubusercontent.com/80899378/206189542-00450aa0-5df0-4cfb-9ff5-2199d0e005da.mp4)
 
 
 ### Example 7
@@ -50,7 +50,7 @@ In this paper, we propose a face interactive coding framework, which efficiently
 
 ### Example 8
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445413-4ea15cd6-05c7-4d1c-912a-09f97e4dd0ff.mp4)](https://user-images.githubusercontent.com/80899378/205445413-4ea15cd6-05c7-4d1c-912a-09f97e4dd0ff.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/206189568-5dc6bd70-a155-4610-ba79-0547064720d2.mp4)](https://user-images.githubusercontent.com/80899378/206189568-5dc6bd70-a155-4610-ba79-0547064720d2.mp4)
 
 
 ### Example 9
