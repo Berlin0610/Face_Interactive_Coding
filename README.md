@@ -135,22 +135,16 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ### Example 1
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205426549-ea260d28-a1ad-4983-b461-f3634b2475f9.mp4)](https://user-images.githubusercontent.com/80899378/205426549-ea260d28-a1ad-4983-b461-f3634b2475f9.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/212704149-21cac074-3597-4455-8dda-3c95dd80d8e0.mp4)](https://user-images.githubusercontent.com/80899378/212704149-21cac074-3597-4455-8dda-3c95dd80d8e0.mp4)
 
 
 ### Example 2
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205426551-fc6ec78c-d43c-4cd3-8a71-3dc6f4bd7168.mp4)](https://user-images.githubusercontent.com/80899378/205426551-fc6ec78c-d43c-4cd3-8a71-3dc6f4bd7168.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/212704451-a28401ec-8ed5-417b-805c-c3cf4c757f6f.mp4)](https://user-images.githubusercontent.com/80899378/212704451-a28401ec-8ed5-417b-805c-c3cf4c757f6f.mp4)
 
 
 ### Example 3
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205426552-4b7d35c2-a4a6-4aff-b35a-f629026e4ba5.mp4)](https://user-images.githubusercontent.com/80899378/205426552-4b7d35c2-a4a6-4aff-b35a-f629026e4ba5.mp4)
-
-
-
-
-
-
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/212704167-4b6ebccd-7d86-441d-9564-2d67b004c4cd.mp4)](https://user-images.githubusercontent.com/80899378/212704167-4b6ebccd-7d86-441d-9564-2d67b004c4cd.mp4)
 
 
