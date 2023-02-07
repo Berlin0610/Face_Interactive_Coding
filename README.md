@@ -12,51 +12,50 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ### To verify the performance, we compare our proposed face interactive coding scheme with the latest hybrid video coding standard VVC and five generative compression schemes, including FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid and CFTE. For better quality comparisons, please download the videos (mp4).
 
+
 ### Example 1
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445375-38109973-9d82-490a-8ec9-5a5e40094f72.mp4)](https://user-images.githubusercontent.com/80899378/205445375-38109973-9d82-490a-8ec9-5a5e40094f72.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206108-a1c08768-dbd5-4be4-80a7-a9dc634001d5.mp4)](https://user-images.githubusercontent.com/80899378/217206108-a1c08768-dbd5-4be4-80a7-a9dc634001d5.mp4)
 
 
 ### Example 2
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445384-fc48de76-3f0d-49de-839b-f143d96d360c.mp4)](https://user-images.githubusercontent.com/80899378/205445384-fc48de76-3f0d-49de-839b-f143d96d360c.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206276-3bb51d55-0420-4b9a-b96c-7d1a8f25c393.mp4)](https://user-images.githubusercontent.com/80899378/217206276-3bb51d55-0420-4b9a-b96c-7d1a8f25c393.mp4)
 
 
 ### Example 3
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445378-c1111319-8215-4ddb-bb74-5fcfd861d163.mp4)](https://user-images.githubusercontent.com/80899378/205445378-c1111319-8215-4ddb-bb74-5fcfd861d163.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206360-5c51739f-3d82-46fb-a034-df657c55359a.mp4)](https://user-images.githubusercontent.com/80899378/217206360-5c51739f-3d82-46fb-a034-df657c55359a.mp4)
 
 
 ### Example 4
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445390-c8701815-08e8-4a5d-b2ad-15a52281c212.mp4)](https://user-images.githubusercontent.com/80899378/205445390-c8701815-08e8-4a5d-b2ad-15a52281c212.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206395-696a0b68-4b0b-4924-a970-ebc753cacf64.mp4)](https://user-images.githubusercontent.com/80899378/217206395-696a0b68-4b0b-4924-a970-ebc753cacf64.mp4)
 
 
 ### Example 5
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445393-4dcfc0bc-2009-41ae-9674-3255f8c30879.mp4)](https://user-images.githubusercontent.com/80899378/205445393-4dcfc0bc-2009-41ae-9674-3255f8c30879.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206448-8a380660-f501-4003-b07c-51aeac99de58.mp4)](https://user-images.githubusercontent.com/80899378/217206448-8a380660-f501-4003-b07c-51aeac99de58.mp4)
 
 
 ### Example 6
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/206189542-00450aa0-5df0-4cfb-9ff5-2199d0e005da.mp4)](https://user-images.githubusercontent.com/80899378/206189542-00450aa0-5df0-4cfb-9ff5-2199d0e005da.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206481-98cc3a4a-7cf5-4343-a2ec-4fe4a27f01a3.mp4)](https://user-images.githubusercontent.com/80899378/217206481-98cc3a4a-7cf5-4343-a2ec-4fe4a27f01a3.mp4)
 
 
 ### Example 7
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445412-5d0b5bbc-0e1a-48f6-b01b-0795637c38aa.mp4)](https://user-images.githubusercontent.com/80899378/205445412-5d0b5bbc-0e1a-48f6-b01b-0795637c38aa.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206540-5009c59c-de71-4cfd-816d-e5504e6d3f23.mp4)](https://user-images.githubusercontent.com/80899378/217206540-5009c59c-de71-4cfd-816d-e5504e6d3f23.mp4)
 
 
 ### Example 8
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/206189568-5dc6bd70-a155-4610-ba79-0547064720d2.mp4)](https://user-images.githubusercontent.com/80899378/206189568-5dc6bd70-a155-4610-ba79-0547064720d2.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206635-ac939183-10e9-400b-9ea6-1045689e024b.mp4)](https://user-images.githubusercontent.com/80899378/217206635-ac939183-10e9-400b-9ea6-1045689e024b.mp4)
 
 
 ### Example 9
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205445414-483f3272-04ac-4ff2-bef2-58868feaedf8.mp4
-)](https://user-images.githubusercontent.com/80899378/205445414-483f3272-04ac-4ff2-bef2-58868feaedf8.mp4
-)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206681-56764e38-cb47-4a43-a234-5b04bbb2f494.mp4)](https://user-images.githubusercontent.com/80899378/217206681-56764e38-cb47-4a43-a234-5b04bbb2f494.mp4)
 
 
 ## Face Interactive Coding with Facial Semantics
