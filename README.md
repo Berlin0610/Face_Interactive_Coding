@@ -109,22 +109,23 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ### Example--Eye Motion Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454266-d46b9c8b-2150-45d5-bfd3-2936633a879d.mp4)](https://user-images.githubusercontent.com/80899378/205454266-d46b9c8b-2150-45d5-bfd3-2936633a879d.mp4)
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286690-37458e4e-1157-4d30-a1db-4b9de2680bd1.mp4)](https://user-images.githubusercontent.com/80899378/217286690-37458e4e-1157-4d30-a1db-4b9de2680bd1.mp4)
 
 
 ### Example--Mouth Motion Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454271-a45b3e5c-229e-41ff-a095-b6ff575e17b7.mp4)](https://user-images.githubusercontent.com/80899378/205454271-a45b3e5c-229e-41ff-a095-b6ff575e17b7.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286740-64432901-ac03-49b6-bb72-f7acff329751.mp4)](https://user-images.githubusercontent.com/80899378/217286740-64432901-ac03-49b6-bb72-f7acff329751.mp4)
 
 
 ### Example--Head Rotation Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454275-090a315a-5261-4830-97a1-e82ade31c04d.mp4)](https://user-images.githubusercontent.com/80899378/205454275-090a315a-5261-4830-97a1-e82ade31c04d.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286462-2d80a910-60bf-4d40-bfcd-a7017ae68c51.mp4)](https://user-images.githubusercontent.com/80899378/217286462-2d80a910-60bf-4d40-bfcd-a7017ae68c51.mp4)
 
 
 ### Example--Head Translation Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/205454277-c7f1f0bf-76e5-436d-b725-10afb969d3a6.mp4)](https://user-images.githubusercontent.com/80899378/205454277-c7f1f0bf-76e5-436d-b725-10afb969d3a6.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286525-0a4c60ab-a97f-4167-a459-aeef09cf39f3.mp4)](https://user-images.githubusercontent.com/80899378/217286525-0a4c60ab-a97f-4167-a459-aeef09cf39f3.mp4)
 
 
 
