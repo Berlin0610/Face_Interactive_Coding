@@ -45,7 +45,7 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ### Example 7
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206540-5009c59c-de71-4cfd-816d-e5504e6d3f23.mp4)](https://user-images.githubusercontent.com/80899378/217206540-5009c59c-de71-4cfd-816d-e5504e6d3f23.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217293301-64005a07-9320-472b-a471-d28369c5a690.mp4)](https://user-images.githubusercontent.com/80899378/217293301-64005a07-9320-472b-a471-d28369c5a690.mp4)
 
 
 ### Example 8
