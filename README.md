@@ -107,25 +107,26 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ### To better show the superior facial interactive results, we provide visual examples about different interactivity degrees of eye motion, mouth motion, head rotation and head translation. For better quality comparisons, please download the videos (mp4).
 
+
 ### Example--Eye Motion Interactivity
 
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286690-37458e4e-1157-4d30-a1db-4b9de2680bd1.mp4)](https://user-images.githubusercontent.com/80899378/217286690-37458e4e-1157-4d30-a1db-4b9de2680bd1.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217287951-fd9010cb-2f78-4a9c-85d4-ba1ca3563ebd.mp4)](https://user-images.githubusercontent.com/80899378/217287951-fd9010cb-2f78-4a9c-85d4-ba1ca3563ebd.mp4)
 
 
 ### Example--Mouth Motion Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286740-64432901-ac03-49b6-bb72-f7acff329751.mp4)](https://user-images.githubusercontent.com/80899378/217286740-64432901-ac03-49b6-bb72-f7acff329751.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217287963-16b2debc-a75d-4b71-b421-974e7e159aa7.mp4)](https://user-images.githubusercontent.com/80899378/217287963-16b2debc-a75d-4b71-b421-974e7e159aa7.mp4)
 
 
 ### Example--Head Rotation Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286462-2d80a910-60bf-4d40-bfcd-a7017ae68c51.mp4)](https://user-images.githubusercontent.com/80899378/217286462-2d80a910-60bf-4d40-bfcd-a7017ae68c51.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217287980-2a783ffd-246f-4fc0-8327-4bfabf7af98f.mp4)](https://user-images.githubusercontent.com/80899378/217287980-2a783ffd-246f-4fc0-8327-4bfabf7af98f.mp4)
 
 
 ### Example--Head Translation Interactivity
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217286525-0a4c60ab-a97f-4167-a459-aeef09cf39f3.mp4)](https://user-images.githubusercontent.com/80899378/217286525-0a4c60ab-a97f-4167-a459-aeef09cf39f3.mp4)
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217288250-62ee55f3-0a36-4c3a-ab80-5b0fa1f32c77.mp4)](https://user-images.githubusercontent.com/80899378/217288250-62ee55f3-0a36-4c3a-ab80-5b0fa1f32c77.mp4)
 
 
 
