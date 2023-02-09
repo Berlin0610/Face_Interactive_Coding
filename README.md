@@ -1,16 +1,16 @@
-# Face Interactive Coding: A Generative Compression Framework
+# Interactive Face Video Coding: A Generative Compression Framework
 
 
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217296546-ae8c232b-fd24-4445-b0a7-01ae37caaf60.mp4)](https://user-images.githubusercontent.com/80899378/217296546-ae8c232b-fd24-4445-b0a7-01ae37caaf60.mp4)
 
 ## Abstract
 
-In this paper, we propose a novel framework for face interactive coding, which allows humans to interact with the intrinsic visual representations instead of the signals. The proposed solution enjoys several distinct advantages, including ultra-compact representation, low delay interaction, and vivid face animation. In particular, we propose the Internal Dimension Increase (IDI) based representation, greatly enhancing the realistic and flexibility in rendering the  appearance while maintaining the reasonable representation cost. By leveraging the strong statistical regularities, the visual signals can be effectively projected into controllable semantics evolution in the three dimensional space (e.g., mouth motion, eye blinking, head rotation and head translation), which are finally compressed and transmitted. The editable bitstream, which naturally supports the interactivity at the embedding level, is able to synthesize the face videos via the delicately designed decoder. As such, the superfluous video generation at the encoder or decoder side can be avoided. Experimental results have demonstrated the performance superiority and application prospects of our proposed scheme. In particular, the proposed scheme not only outperforms the state-of-the-art video coding standard Versatile Video Coding (VVC) and the latest generative compression schemes in terms of rate-distortion performance, but also enables the interactive coding without introducing redundant computational overhead. Furthermore, the proposed framework is expected to shed lights on the future design of the digital human communication in the metaverse.
+In this paper, we propose a novel framework for Interactive Face Video Coding (IFVC), which allows humans to interact with the intrinsic visual representations instead of the signals. The proposed solution enjoys several distinct advantages, including ultra-compact representation, low delay interaction, and vivid face animation. In particular, we propose the Internal Dimension Increase (IDI) based representation, greatly enhancing the fidelity and flexibility in rendering the appearance while maintaining reasonable representation cost. By leveraging strong statistical regularities, the visual signals can be effectively projected into controllable semantics in the three dimensional space (\textit{e.g.,} mouth motion, eye blinking, head rotation and head translation), which are finally compressed and transmitted. The editable bitstream, which naturally supports the interactivity at the semantic level, can synthesize the face videos via the strong inference ability of the deep generative model. Experimental results have demonstrated the performance superiority and application prospects of our proposed IFVC scheme. In particular, the proposed scheme not only outperforms the state-of-the-art video coding standard Versatile Video Coding (VVC) and the latest generative compression schemes in terms of rate-distortion performance for face videos, but also enables the interactive coding without introducing redundant computational overhead. Furthermore, the proposed framework is expected to shed lights on the future design of the digital human communication in the metaverse.
 
 
 ## Quality Comparisons (Similar Bitrate)
 
-### To verify the performance, we compare our proposed face interactive coding scheme with the latest hybrid video coding standard VVC and five generative compression schemes, including FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid and CFTE. For better quality comparisons, please download the videos (mp4).
+### To verify the performance, we compare our proposed IFVC scheme with the latest hybrid video coding standard VVC and five generative compression schemes, including FOMM, FOMM2.0, Face2FaceRHO, Face_vid2vid and CFTE. For better quality comparisons, please download the videos (mp4).
 
 
 ### Example 1
@@ -58,7 +58,7 @@ In this paper, we propose a novel framework for face interactive coding, which a
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217206681-56764e38-cb47-4a43-a234-5b04bbb2f494.mp4)](https://user-images.githubusercontent.com/80899378/217206681-56764e38-cb47-4a43-a234-5b04bbb2f494.mp4)
 
 
-## Face Interactive Coding with Facial Semantics
+## Interactive Face Video Coding with Facial Semantics
 
 ### By modifying the corresponding facial semantics at the decoder side, different interactive manners can be achieved in terms of eye blinking, mouth motion, head rotation and head translation. For better quality comparisons, please download the videos (mp4).
 
@@ -103,9 +103,9 @@ In this paper, we propose a novel framework for face interactive coding, which a
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291959-739f5dd9-9e59-41a4-b872-7e68e4c8b830.mp4)](https://user-images.githubusercontent.com/80899378/217291959-739f5dd9-9e59-41a4-b872-7e68e4c8b830.mp4)
 
 
-## Face Interactive Coding with Facial Semantics
+## Interactive Face Video Coding with Facial Semantics
 
-### To better show the superior facial interactive results, we provide visual examples about different interactivity degrees of eye motion, mouth motion, head rotation and head translation. For better quality comparisons, please download the videos (mp4).
+### To better show the superior interactive results, we provide visual examples about different interactivity degrees of eye motion, mouth motion, head rotation and head translation. For better quality comparisons, please download the videos (mp4).
 
 
 ### Example--Eye Motion Interactivity
@@ -132,7 +132,7 @@ In this paper, we propose a novel framework for face interactive coding, which a
 
 ## Virtual Character Animation with Facial Semantics
 
-### To better protect user privacy in talking face communication, we provide a virtual character animation manner by treating the virtual character as the key-reference frame and animating it with compact facial semantics at the decoder side. For better quality comparisons, please download the videos (mp4).
+### To better protect user privacy in face video communication, we provide a virtual character animation manner by treating the virtual character as the key-reference frame and animating it with compact facial semantics at the decoder side. For better quality comparisons, please download the videos (mp4).
 
 ### Example 1
 
