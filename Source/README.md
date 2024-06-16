@@ -25,7 +25,7 @@ The pretrained IFVC model can be downloaded  and unziped from the following link
 
 The pretrained "arcface_backbone_r50.pth" can be downloaded from following link: [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/bolinchen3-c_my_cityu_edu_hk/ElYn9dQbNZ5Au7k1p5Q6CaoBtrLQDKsZ4yw2k66deKBJQQ?e=9Y5lHQ), and put it in the the "./config" folder.
 
-The pretrained "WM3DR" models can be downloaded from following link [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/bolinchen3-c_my_cityu_edu_hk/EpdQGTuLhjRDnAptwnVW9XUBYltICZxtNQMfY8pFcHok_g?e=KnAdDc)or [WM3DR](https://github.com/kalyo-zjl/WM3DR), and put them in the  "./modules/wm3dr/BFM/mSEmTFK68etc.chj" and  "./modules/wm3dr/model/final.pth".
+The pretrained "WM3DR" models can be downloaded from following link [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/bolinchen3-c_my_cityu_edu_hk/EpdQGTuLhjRDnAptwnVW9XUBYltICZxtNQMfY8pFcHok_g?e=KnAdDc) or [WM3DR](https://github.com/kalyo-zjl/WM3DR), and put them in the  "./modules/wm3dr/BFM/mSEmTFK68etc.chj" and  "./modules/wm3dr/model/final.pth".
 
 
 ### Training
