@@ -129,6 +129,12 @@ In this paper, we propose a novel framework for Interactive Face Video Coding (I
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217288250-62ee55f3-0a36-4c3a-ab80-5b0fa1f32c77.mp4)](https://user-images.githubusercontent.com/80899378/217288250-62ee55f3-0a36-4c3a-ab80-5b0fa1f32c77.mp4)
 
 
+### Example--Head Location Interactivity
+
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/b869ae49-08de-429a-8e94-c27e91664976)](https://github.com/user-attachments/assets/b869ae49-08de-429a-8e94-c27e91664976)
+
+
+
 
 ## Virtual Character Animation with Facial Semantics
 
