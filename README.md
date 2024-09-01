@@ -1,7 +1,7 @@
 # Interactive Face Video Coding: A Generative Compression Framework
 
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217296546-ae8c232b-fd24-4445-b0a7-01ae37caaf60.mp4)](https://user-images.githubusercontent.com/80899378/217296546-ae8c232b-fd24-4445-b0a7-01ae37caaf60.mp4)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/2bb7e8b3-a5f5-43d0-8572-7dd242cc58e7)](https://github.com/user-attachments/assets/2bb7e8b3-a5f5-43d0-8572-7dd242cc58e7)
 
 ## Abstract
 
