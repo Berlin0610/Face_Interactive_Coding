@@ -65,42 +65,12 @@ In this paper, we propose a novel framework for Interactive Face Video Coding (I
 
 ### Example 1
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291824-cef4bf54-231c-46d8-ba9c-23b7217b87c3.mp4)](https://user-images.githubusercontent.com/80899378/217291824-cef4bf54-231c-46d8-ba9c-23b7217b87c3.mp4)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/c6780295-1dc4-4476-9f7a-cbd951e43eda)](https://github.com/user-attachments/assets/c6780295-1dc4-4476-9f7a-cbd951e43eda)
 
 
 ### Example 2
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291832-895269a3-ee30-41fd-a88f-bd916eca9866.mp4)](https://user-images.githubusercontent.com/80899378/217291832-895269a3-ee30-41fd-a88f-bd916eca9866.mp4)
-
-
-### Example 3
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291846-ab8954c8-2418-4b2a-9247-396eff69fd26.mp4)](https://user-images.githubusercontent.com/80899378/217291846-ab8954c8-2418-4b2a-9247-396eff69fd26.mp4)
-
-
-### Example 4
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291874-06f466da-bc90-4f7b-86eb-1f98ff40613f.mp4)](https://user-images.githubusercontent.com/80899378/217291874-06f466da-bc90-4f7b-86eb-1f98ff40613f.mp4)
-
-
-### Example 5
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291884-9062dd30-f1dc-4a68-ae2c-0a606e7e72e7.mp4)](https://user-images.githubusercontent.com/80899378/217291884-9062dd30-f1dc-4a68-ae2c-0a606e7e72e7.mp4)
-
-
-### Example 6
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291920-ac102fc7-dff0-40ad-8559-6df260466f79.mp4)](https://user-images.githubusercontent.com/80899378/217291920-ac102fc7-dff0-40ad-8559-6df260466f79.mp4)
-
-
-### Example 7
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291938-2708c08b-d95d-45dd-87fd-a300010b6dde.mp4)](https://user-images.githubusercontent.com/80899378/217291938-2708c08b-d95d-45dd-87fd-a300010b6dde.mp4)
-
-
-### Example 8
-
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/80899378/217291959-739f5dd9-9e59-41a4-b872-7e68e4c8b830.mp4)](https://user-images.githubusercontent.com/80899378/217291959-739f5dd9-9e59-41a4-b872-7e68e4c8b830.mp4)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/01cbf71c-a81a-4074-a53f-fd2f662dd4e0)](https://github.com/user-attachments/assets/01cbf71c-a81a-4074-a53f-fd2f662dd4e0)
 
 
 ## Interactive Face Video Coding with Facial Semantics
